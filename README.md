@@ -1,1 +1,1 @@
-# Rebuttal Materials for ``TopoGCL: Topological Graph Contrastive Learning''
+# The Rebuttal Material for ``TopoGCL: Topological Graph Contrastive Learning''
